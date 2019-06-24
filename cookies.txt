@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.aditi-surana.com	TRUE	/	FALSE	1999999999	crumb	BXPhqXJeeiHoM2E3MzUyMTA5ZTc4ODg3NzFkYWE4NWZlNWU0NWY3
+www.aditi-surana.com	TRUE	/	FALSE	1999999999	ss_cid	41b621d1-0f18-4ae0-89e2-ad7b624a546d
+www.aditi-surana.com	TRUE	/	FALSE	1999999999	ss_cvisit	1561416451874
+www.aditi-surana.com	TRUE	/	FALSE	1999999999	ss_cpvisit	1561416451874
+
